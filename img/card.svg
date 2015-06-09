@@ -1,19 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg width="794px" height="200px" viewBox="0 0 794 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="headline__image">
-    <title>card</title>
-    <defs></defs>
     <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g transform="translate(-32.000000, -21.000000)"></g>
-        <text font-family="Montserrat" font-size="88.6540539" font-weight="bold">
-            <tspan x="218" y="127" fill="#000000">Skunk</tspan>
-            <tspan x="506.125675" y="127" fill="#D0011B">Werks</tspan>
+        <text font-family="Montserrat" font-size="90" font-weight="bold">
+            <tspan x="218" y="130" fill="#000000">Skunk</tspan>
+            <tspan x="506" y="130" fill="#D0011B">Werks</tspan>
         </text>
-        <text font-family="Montserrat" font-size="22.2" font-weight="normal">
-            <tspan x="280" y="165" fill="#000000">P</tspan>
-            <tspan x="294.9406" y="165" fill="#000000">eer-to-Peer Distributed</tspan>
-            <tspan x="280" y="191" fill="#000000">Data Systems for the </tspan>
-            <tspan x="514.0546" y="191" fill="#D0011B">Net</tspan>
-            <tspan x="553.726" y="191" fill="#000000">.</tspan>
+        <text font-family="Montserrat" font-size="22.2" font-weight="normal" fill="#000000">
+            <tspan x="280" y="165">Peer-to-Peer Distributed</tspan>
+            <tspan x="280" y="191">Systems for the Net</tspan>
         </text>
         <g transform="translate(100.000000, 100.000000) rotate(-90.000000) translate(-100.000000, -100.000000) ">
             <path d="M172.425249,200 C187.654364,200 200,187.654364 200,172.425249 C200,157.196134 187.654364,144.850498 172.425249,144.850498 C157.196134,144.850498 144.850498,157.196134 144.850498,172.425249 C144.850498,187.654364 157.196134,200 172.425249,200 Z" fill="#D0011B"></path>
