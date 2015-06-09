@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="572px" height="68px" viewBox="0 0 572 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>header</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Slices" sketch:type="MSLayerGroup" transform="translate(-251.000000, -81.000000)"></g>
+        <text id="Company-Name" sketch:type="MSTextLayer" font-family="Montserrat" font-size="88.6540539" font-weight="bold">
+            <tspan x="-1" y="67" fill="#000000">Skunk</tspan>
+            <tspan x="287.125675" y="67" fill="#D0011B">Werks</tspan>
+        </text>
+    </g>
+</svg>

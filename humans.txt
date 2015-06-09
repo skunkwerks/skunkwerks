@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Dave Cottlehuber
+
+# THANKS
+
+    inuitcss for a simple and easy to follow layout
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    inuitcss
